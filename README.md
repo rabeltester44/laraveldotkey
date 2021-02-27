@@ -18,7 +18,6 @@ $ python3 dot.py
 ```
 ##### Update Wordlist
 ```sh
-$ apt install wget
 $ python update.py
 ```
 #### Note
